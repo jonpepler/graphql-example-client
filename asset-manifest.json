@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/graphql-example-client/static/css/main.91a6b472.chunk.css",
-    "main.js": "/graphql-example-client/static/js/main.237b2a17.chunk.js",
-    "main.js.map": "/graphql-example-client/static/js/main.237b2a17.chunk.js.map",
-    "runtime-main.js": "/graphql-example-client/static/js/runtime-main.bb628f84.js",
-    "runtime-main.js.map": "/graphql-example-client/static/js/runtime-main.bb628f84.js.map",
-    "static/js/2.37440269.chunk.js": "/graphql-example-client/static/js/2.37440269.chunk.js",
-    "static/js/2.37440269.chunk.js.map": "/graphql-example-client/static/js/2.37440269.chunk.js.map",
-    "static/js/3.2e5f950e.chunk.js": "/graphql-example-client/static/js/3.2e5f950e.chunk.js",
-    "static/js/3.2e5f950e.chunk.js.map": "/graphql-example-client/static/js/3.2e5f950e.chunk.js.map",
+    "main.css": "/graphql-example-client/static/css/main.4614bc82.chunk.css",
+    "main.js": "/graphql-example-client/static/js/main.ea3e5713.chunk.js",
+    "main.js.map": "/graphql-example-client/static/js/main.ea3e5713.chunk.js.map",
+    "runtime-main.js": "/graphql-example-client/static/js/runtime-main.7a73a224.js",
+    "runtime-main.js.map": "/graphql-example-client/static/js/runtime-main.7a73a224.js.map",
+    "static/js/2.15a686f7.chunk.js": "/graphql-example-client/static/js/2.15a686f7.chunk.js",
+    "static/js/2.15a686f7.chunk.js.map": "/graphql-example-client/static/js/2.15a686f7.chunk.js.map",
     "index.html": "/graphql-example-client/index.html",
-    "static/css/main.91a6b472.chunk.css.map": "/graphql-example-client/static/css/main.91a6b472.chunk.css.map",
-    "static/js/2.37440269.chunk.js.LICENSE.txt": "/graphql-example-client/static/js/2.37440269.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/graphql-example-client/static/media/logo.6ce24c58.svg"
+    "static/css/main.4614bc82.chunk.css.map": "/graphql-example-client/static/css/main.4614bc82.chunk.css.map",
+    "static/js/2.15a686f7.chunk.js.LICENSE.txt": "/graphql-example-client/static/js/2.15a686f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb628f84.js",
-    "static/js/2.37440269.chunk.js",
-    "static/css/main.91a6b472.chunk.css",
-    "static/js/main.237b2a17.chunk.js"
+    "static/js/runtime-main.7a73a224.js",
+    "static/js/2.15a686f7.chunk.js",
+    "static/css/main.4614bc82.chunk.css",
+    "static/js/main.ea3e5713.chunk.js"
   ]
 }
